@@ -5,4 +5,4 @@ jdk:
   - oraclejd11
 
 after_success:
-  - mvn clean coveralls:report
+  - mvn clean test jacoco:report coveralls:report
