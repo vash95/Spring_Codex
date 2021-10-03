@@ -5,4 +5,4 @@ jdk:
   - oraclejd11
 
 after_success:
-  - mvn jacoco:report coveralls:report
+  - mvn coveralls:report
