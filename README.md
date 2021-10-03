@@ -2,7 +2,7 @@
 Prueba inditex
 
 [![Build Status](https://app.travis-ci.com/vash95/inditex_API_REST.svg?branch=main)](https://app.travis-ci.com/vash95/inditex_API_REST)
-[![Coverage Status](https://coveralls.io/repos/github/codecentric/springboot-sample-app/badge.svg?branch=master)](https://coveralls.io/github/codecentric/springboot-sample-app?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/vash95/inditex_API_REST/badge.svg?branch=main)](https://coveralls.io/github/vash95/inditex_API_REST?branch=main)
 
 
 ## Requirements
